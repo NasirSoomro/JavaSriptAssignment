@@ -606,3 +606,147 @@
 //             document.write("Good afternoon")
 //             }
             
+// Chapter # 14 to 16  
+// Task #  03,05,06
+ 
+
+// var students = [""]
+// var number = [1,2,3]
+// var mixed = [23,"Nasir Hidayat"]
+
+
+// Chapter # 14 to 16  
+// Task #  07
+
+
+// var education = ["SSC", "HSC"," BCS","BS"," BCOM", "MS"," M. Phil.", "Phd"]
+// document.write("<b> Qualification <br>" + education[0] + "<br>" + education[1] + "<br>" + education[2] + "<br>" + education[3]  + "<br>" + education[4] + "<br>" + education[5]+ "<br>"  + education[6] + "<br>" + education[7])
+
+
+
+// Chapter # 14 to 16  
+// Task #  08
+
+// var StudentsName = ["Mateen","Muzamil","Mazhar"]; 
+// var marks = [320,230,440] 
+// var a = marks[0] / 500 * 100;
+// var b = marks[1] / 500 * 100;
+// var c = marks[2] / 500 * 100;
+
+// document.write("scores of &nbsp " + StudentsName[0] + "&nbsp is &nbsp " + marks[0] + " &nbsp Percentage:" + a + "%<br>scores of &nbsp" + StudentsName[1] + "&nbsp is &nbsp" + marks[1] + "&nbsp Percentage:" + b + "%<br>scores of &nbsp" + StudentsName[2] + "&nbsp is &nbsp" + marks[2] + "&nbsp Percentage:" + c +"%" )
+
+
+// Chapter # 14 to 16  
+// Task #  11
+
+
+// var cityNames = ["Karachi","Lahore","IslamAbad","MuzafarAbad","Balakot","Skurdo"]
+// var selected = cityNames.slice(3,5)
+
+// document.write("Cities List: <br>" + cityNames + "<br>Selected City List : <br>" + selected)
+
+
+
+
+// Chapter # 14 to 16  
+// Task #  12   array’s join method
+
+// var arr =["This","is","my","Cat"];
+// document.write() 
+
+
+
+//=========== Chapter # 14 to 16  
+// Task #  13
+
+
+
+
+// var devices = ["Keybaord","mouse","printer","monitor","scanner"];
+
+// document.write("Devices  : <br>" + devices + " <br> Out  : <br> " + devices[0] + " <br> Out  : <br> " + devices[1] + " <br> Out  : <br> " + devices[2]+ " <br> Out  : <br> " + devices[3]+ " <br> Out  : <br> " + devices[4]    )
+
+
+
+//========== Chapter # 14 to 16  
+// Task #  15
+
+
+// var manuf = ["Apple","Samsung","Motorolla","Sony","Nokia","Haier"];
+// document.write(manuf[0] + "<br>" + manuf[1] + "<br>" + manuf[2] + "<br>" + manuf[3] + "<br>"+ manuf[4] + "<br>"+ manuf[5] + "<br>" )
+
+ 
+
+
+//========== Chapter # 17 to 20  
+// Task #  03
+
+
+// for( var i=1; i<11; i++ ){
+//   document.write("<br>" +i)
+// }
+
+//========== Chapter # 17 to 20  
+// Task #  04
+
+
+// var a = +prompt("Enter a Number To Show Its Multiplication Table" +" ");
+// var b = +prompt("Enter Lenth Multiplication Table" +" ");
+
+// for(var i=1; i<=b; i++){
+// document.write( a + "x" + i + "=" + a*i + "<br>")
+// }
+
+//========== Chapter # 17 to 20  
+// Task #  05
+
+
+// var fruits = ["Apple","Banana","Mango","Orange","Strawberry"]
+//  for(i=0; i<fruits.length; i++){
+//    document.write(fruits + "<br>" + " <br><br><br>elements at Index 0 " + "is" +fruits[0] +  "<br> elements at Index 1 is" +fruits[1] +  "<br> elements at Index 2 is" + fruits[2]+  "<br> elements at Index 3 is" +fruits[3]+  "<br> elements at Index 4 is" +fruits[4])
+//    break;1
+//  }
+
+//========== Chapter # 17 to 20  
+// Task #  06 : a
+
+// var counting = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
+// for(i=1; i<=15; i++){
+//   document.write(counting)
+//   break;1
+// }
+
+
+// Task #  06 : b
+
+// var counting = [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15]
+// for(i=1; i<=15; i++){
+//   document.write(counting.sort((a-b)<=b-a))
+//   break;1
+// }
+
+
+
+
+// Task #  07
+// var a = prompt("Welcome To Karachi Bakery. What do you order Sir/Mam!" + " ");
+// var b = ["cake", "apple pie", "cookie", "chips", "patties"]
+// var c = ["0","1"]
+// for(var i=0; i < b.length; i++){
+ 
+// document.write(a + " &nbsp is available at Index" +     " &nbsp in Our Bakery")
+// break
+// }
+ 
+ 
+
+
+// Task #  08
+ 
+// var number = [24, 53, 78, 91, 12]
+ 
+// for(var i=0; i < number.length; i++){
+ 
+// document.write()
+// break
+// }
