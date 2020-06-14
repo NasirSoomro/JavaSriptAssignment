@@ -546,13 +546,13 @@
 
 // var alpha =+prompt("Enter your Value" + " ");
 
-// if(A >=65 && Z <=90) {
+// if(alpha.charcodeAt(0) >=65 && alpha.charcodeAt(0) <=90) {
 //     document.write("Character is a capital letter")
 // } 
-//  else if(alpha>=97 && alpha<=122){
+//  else if(alpha.charcodeAt(0)>=97 && alpha.charcodeAt(0)<=122){
 // document.write("Character is a small letter")
 // }
-// else if(alpha>=48 && alpha<=57){
+// else if(alpha.charcodeAt(0)>=48 && alpha.charcodeAt(0)<=57){
 //     document.write("Character is a digit")
 //     }
     
@@ -749,4 +749,15 @@
  
 // document.write()
 // break
+// }
+
+
+
+
+// Task #  10
+
+
+ 
+// for(var i=1; i<=20; i++){
+// document.write(5*i +",&nbsp")
 // }
